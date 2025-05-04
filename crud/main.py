@@ -1,4 +1,4 @@
-from crud.module.requests0 import *
+from crud.module.defs0 import *
 from time import sleep
 
 while True:
