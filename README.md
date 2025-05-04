@@ -18,32 +18,28 @@ Deletar item 🗑️ / Delete item: Exclui um item da API fornecendo o ID / Dele
 
 Sair 🚪 / Exit: Finaliza a execução do sistema / Exits the system.
 
+
 Como usar / How to use
 Clone o repositório / Clone the repository:
 Clone este repositório para sua máquina local usando o comando:
 Clone this repository to your local machine using the command:
 
-bash
-Copiar
-Editar
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/joaow0/CRUD_v1
+
 Instale as dependências 🛠️ / Install dependencies:
 Para instalar as dependências necessárias, use o seguinte comando:
 To install the necessary dependencies, use the following command:
 
-bash
-Copiar
-Editar
 pip install requests
+
 Execute o sistema 🚀 / Run the system:
 Para rodar o sistema, execute o arquivo principal:
 To run the system, execute the main file:
 
-bash
-Copiar
-Editar
-python nome_do_arquivo.py
+python main.py
+
 Interaja com o menu 🎮 / Interact with the menu:
 O sistema irá apresentar um menu com as opções para manipulação de itens. Escolha uma das opções e siga as instruções no console.
+
 The system will display a menu with options to manipulate items. Choose one of the options and follow the instructions in the console.
 
