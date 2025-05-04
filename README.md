@@ -37,41 +37,49 @@ Exit 🚪: Exits the system.
 Como usar / How to use
 Português 🇧🇷
 Clone o repositório
+
 Clone este repositório para sua máquina local usando o comando:
 
 git clone https://github.com/joaow0/CRUD_v1
 
 Instale as dependências 🛠️
+
 Para instalar as dependências necessárias, use o seguinte comando:
 
 pip install requests
 
 Execute o sistema 🚀 
+
 Para rodar o sistema, execute o arquivo principal:
 
 python main.py
 
 Interaja com o menu 🎮 
+
 O sistema irá apresentar um menu com as opções para manipulação de itens. Escolha uma das opções e siga as instruções no console.
 
 
 English 🇬🇧
 Clone the repository 
+
 Clone this repository to your local machine using the command:
 
 git clone https://github.com/joaow0/CRUD_v1
 
-Install dependencies 🛠️ 
+Install dependencies 🛠️
+
 To install the necessary dependencies, use the following command:
 
 pip install requests
 
 Run the system 🚀
+
 To run the system, execute the main file:
 
 python main.py
 
 Interact with the menu 🎮
+
 The system will display a menu with options to manipulate items. Choose one of the options and follow the instructions in the console.
 
 
