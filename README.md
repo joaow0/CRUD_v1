@@ -1,88 +1,89 @@
-Sistema CRUD - Python (APIs REST) 🚀
-Descrição (Português) 🇧🇷
-Sistema CRUD desenvolvido em Python para interagir com APIs REST. O sistema permite realizar operações como visualizar todos os itens, visualizar um item específico por ID, criar, atualizar e deletar itens de qualquer API REST que forneça dados em formato JSON. O projeto utiliza a biblioteca requests para realizar as requisições HTTP.
+# 🌐 Sistema CRUD - Python (REST APIs) / CRUD System - Python (REST APIs) 🚀
 
-Features (Inglês) 🇬🇧
-CRUD system developed in Python to interact with REST APIs. The system allows operations like viewing all items, viewing a specific item by ID, creating, updating, and deleting items from any REST API that provides data in JSON format. The project uses the requests library to perform HTTP requests.
+---
 
-Funcionalidades / Features
-Português 🇧🇷
-Ver todos os itens 📋: Lista todos os itens disponíveis na API.
+## 📄 Descrição (Português) 🇧🇷
 
-Ver item por ID 🔍: Permite visualizar um item específico, fornecendo o ID.
+Sistema CRUD desenvolvido em Python para interagir com APIs REST.  
+Permite realizar operações como:
 
-Criar novo item ✨: Cria um novo item enviando os dados fornecidos pelo usuário.
+- Visualizar todos os itens  
+- Visualizar um item específico por ID  
+- Criar novos itens  
+- Atualizar itens existentes  
+- Deletar itens  
 
-Atualizar item ✏️: Atualiza o título e o conteúdo de um item existente.
+Funciona com **qualquer API REST** que retorne dados em **JSON**, utilizando a biblioteca `requests` para as requisições HTTP.
 
-Deletar item 🗑️: Exclui um item da API fornecendo o ID.
+---
 
-Sair 🚪: Finaliza a execução do sistema.
+## 📄 Description (English) 🇬🇧
 
+CRUD system developed in Python to interact with REST APIs.  
+It allows you to:
 
-English 🇬🇧
-View all items 📋: Lists all available items in the API.
+- View all items  
+- View a specific item by ID  
+- Create new items  
+- Update existing items  
+- Delete items  
 
-View item by ID 🔍: Allows you to view a specific item by providing the ID.
+Works with **any REST API** that provides data in **JSON format**, using the `requests` library to handle HTTP requests.
 
-Create new item ✨: Creates a new item by sending the data provided by the user.
+---
 
-Update item ✏️: Updates the title and content of an existing item.
+## ⚙️ Funcionalidades (Português) 🇧🇷
 
-Delete item 🗑️: Deletes an item from the API by providing the ID.
+- 📋 **Ver todos os itens**: Lista todos os itens disponíveis na API  
+- 🔍 **Ver item por ID**: Exibe um item específico a partir do ID  
+- ✨ **Criar novo item**: Permite criar um item com dados informados pelo usuário  
+- ✏️ **Atualizar item**: Atualiza título e conteúdo de um item existente  
+- 🗑️ **Deletar item**: Remove um item da API usando o ID fornecido  
+- 🚪 **Sair**: Encerra o sistema
 
-Exit 🚪: Exits the system.
+---
 
+## ⚙️ Features (English) 🇬🇧
 
-Como usar / How to use
-Português 🇧🇷
-Clone o repositório
+- 📋 **View all items**: Lists all available items from the API  
+- 🔍 **View item by ID**: Displays a specific item based on the provided ID  
+- ✨ **Create new item**: Allows creating a new item with user input  
+- ✏️ **Update item**: Updates the title and content of an existing item  
+- 🗑️ **Delete item**: Deletes an item from the API using the given ID  
+- 🚪 **Exit**: Closes the system
 
-Clone este repositório para sua máquina local usando o comando:
+---
 
+## ▶️ Como usar (Português) 🇧🇷
+
+### 1. Clone o repositório
+
+```bash
 git clone https://github.com/joaow0/CRUD_v1
 
-Instale as dependências 🛠️
 
-Para instalar as dependências necessárias, use o seguinte comando:
+2. Instale as dependências
 
 pip install requests
 
-Execute o sistema 🚀 
-
-Para rodar o sistema, execute o arquivo principal:
+3. Execute o sistema
 
 python main.py
 
-Interaja com o menu 🎮 
+4. Interaja com o menu
+O sistema exibirá um menu com opções. Escolha uma e siga as instruções pelo console.
 
-O sistema irá apresentar um menu com as opções para manipulação de itens. Escolha uma das opções e siga as instruções no console.
-
-
-English 🇬🇧
-Clone the repository 
-
-Clone this repository to your local machine using the command:
+▶️ How to use (English) 🇬🇧
+1. Clone the repository
 
 git clone https://github.com/joaow0/CRUD_v1
 
-Install dependencies 🛠️
-
-To install the necessary dependencies, use the following command:
-
+2. Install dependencies
 pip install requests
 
-Run the system 🚀
-
-To run the system, execute the main file:
+3. Run the system
 
 python main.py
 
-Interact with the menu 🎮
-
-The system will display a menu with options to manipulate items. Choose one of the options and follow the instructions in the console.
-
-
-
-
-
+4. Interact with the menu
+The system will display a menu with options. Select one and follow the console instructions.
