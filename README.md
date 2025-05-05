@@ -11,6 +11,7 @@ Atualizar itens existentes
 Deletar itens
 Funciona com qualquer API REST que retorne dados em JSON, utilizando a biblioteca requests para as requisições HTTP.
 
+
 📄 Description (English) 🇬🇧
 CRUD system developed in Python to interact with REST APIs.
 It allows you to:
@@ -21,6 +22,7 @@ Create new items
 Update existing items
 Delete items
 Works with any REST API that provides data in JSON format, using the requests library to handle HTTP requests.
+
 
 ⚙️ Funcionalidades (Português) 🇧🇷
 📋 Ver todos os itens: Lista todos os itens disponíveis na API
@@ -34,6 +36,8 @@ Works with any REST API that provides data in JSON format, using the requests li
 🗑️ Deletar item: Remove um item da API usando o ID fornecido
 
 🚪 Sair: Encerra o sistema
+
+
 
 ⚙️ Features (English) 🇬🇧
 
